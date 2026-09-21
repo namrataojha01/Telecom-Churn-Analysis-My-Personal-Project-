@@ -1,0 +1,9 @@
+pandas
+NumPy
+matplotlib
+seaborn
+plotly
+missingno
+sqlalchemy
+MySQL-connector-python
+Jupiterlab
